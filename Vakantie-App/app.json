@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Vakantie-App",
-    "slug": "Vakantie-App",
+    "name": "holidayApp",
+    "slug": "holidayApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+   
+    "androidStatusBar": {
+      "backgroundColor": "#000000",
+      "translucent": false
     },
     "updates": {
       "fallbackToCacheTimeout": 0
